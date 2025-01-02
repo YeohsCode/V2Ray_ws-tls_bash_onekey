@@ -28,7 +28,7 @@ Font="\033[0m"
 #notification information
 # Info="${Green}[信息]${Font}"
 OK="${Green}[OK]${Font}"
-Error="${Red}[错误]${Font}"
+Error="${Red}[Err]${Font}"
 
 # 版本
 shell_version="1.1.9.0"
